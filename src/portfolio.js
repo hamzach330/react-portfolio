@@ -26,7 +26,7 @@ const greeting = {
     "Experienced Software Engineer specializing in Android development and currently pursuing a Master's in Artificial Intelligence. Demonstrated success in optimizing app performance and user experience, resulting in significant improvements in engagement and stability. Proficient in multiple programming languages and frameworks, with a focus on scalable and innovative solutions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1QIOVB48hF__kaGsabL4wvTnFQG-UR8on/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -243,7 +243,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
