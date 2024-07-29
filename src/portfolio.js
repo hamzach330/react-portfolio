@@ -269,7 +269,7 @@ const bigProjects = {
             ]
         },
         {
-            image: require("./assets/images/projectGif.gif"),
+            image: require("./assets/images/projectGif.png"),
             projectName: "Curreny App (Android/IOS)",
             projectDesc:
                 "This project uses Kotlin Multiplatform technology to create apps for both Android and iOS from a single codebase. It features a shared core in the /composeApp folder that works for both platforms, while also allowing for platform-specific adjustments. For iOS, the /iosApp folder includes necessary elements and SwiftUI integration. This approach simplifies development by reusing code across platforms and ensures a consistent user experience on both Android and iOS.",
